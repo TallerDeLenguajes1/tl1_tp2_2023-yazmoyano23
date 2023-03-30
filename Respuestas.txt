@@ -1,1 +1,2 @@
-2f) No se puede ver el archivo porque se encuentra en la rama opcion_2 
+2f) No se puede ver el archivo tp2_1_2.c porque se encuentra dentro de la rama opcion_2 
+Luego de hacer el merge el contenido de la rama opcion_2 se unifica con el main 
